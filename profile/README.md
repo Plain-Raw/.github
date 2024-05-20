@@ -1,2 +1,2 @@
-![](https://github.com/Plain-Raw/general-assets/blob/07c5f8d4a4152daf5b6c99b9dc0d6b3b476643ab/plainraw-logo/svg/logo-color.svg)
+![](https://github.com/Plain-Raw/general-assets/blob/b85d73e0c1797bd586b58a6d94c2536ab283d1d0/plainraw-logo/banners/banner-color.png)
 We are trying to make games not steaks
